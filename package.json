@@ -1,5 +1,5 @@
 {
-  "name": "recurse",
+  "name": "node-recurse",
   "version": "1.0.0",
   "description": "A lightweight NodeJS module to handle files in the `file-system`.",
   "main": "index.js",
