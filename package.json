@@ -1,0 +1,24 @@
+{
+  "name": "recurse",
+  "version": "1.0.0",
+  "description": "A lightweight NodeJS module to handle files in the `file-system`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astitvsingh/recurse.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "npm-module"
+  ],
+  "author": "astitvsingh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/astitvsingh/recurse/issues"
+  },
+  "homepage": "https://github.com/astitvsingh/recurse#readme"
+}
