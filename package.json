@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/astitvsingh/recurse/issues"
   },
-  "homepage": "https://github.com/astitvsingh/recurse#readme"
+  "homepage": "https://github.com/astitvsingh/recurse#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
 }
