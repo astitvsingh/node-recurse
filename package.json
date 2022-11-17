@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/astitvsingh/recurse.git"
+    "url": "git+https://github.com/astitvsingh/node-recurse.git"
   },
   "keywords": [
     "node",
@@ -18,9 +18,9 @@
   "author": "astitvsingh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/astitvsingh/recurse/issues"
+    "url": "https://github.com/astitvsingh/node-recurse/issues"
   },
-  "homepage": "https://github.com/astitvsingh/recurse#readme",
+  "homepage": "https://github.com/astitvsingh/node-recurse#readme",
   "dependencies": {
     "fs": "^0.0.1-security",
     "path": "^0.12.7"
